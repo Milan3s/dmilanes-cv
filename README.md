@@ -1,4 +1,4 @@
-<h1>Curriculum Vitáe tamaño A4</h1>
+<h1>Curriculum Vitáe tamaño A4 y Responsive</h1>
 <ul>
   <li>HTML</li>
   <li>CSS</li>
