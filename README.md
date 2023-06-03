@@ -1,5 +1,3 @@
-# dmilanes-cv
-
 <h1>Curriculum Vitáe tamaño A4</h1>
 <ul>
   <li>HTML</li>
